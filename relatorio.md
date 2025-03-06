@@ -13,11 +13,8 @@ Parte 2: Controle de Versão e Colaboração (opcional)
 
 
 1 - Abrir o branch nova-feature
+
 ![bfdd4468bcb381b982e7181d0156fbd4](https://github.com/user-attachments/assets/cb88eaf5-1ecc-4d24-94c5-e12b930ed6ad)
-
-
-
-
 
 
 
