@@ -26,5 +26,6 @@ git push https://github.com/AF-Github1/UAC nova-feature
 
 
 
-# This is a main branch log.txt change (2.2 Resolvendo conflitos de merge)#
-####
+2_2_MergingConflictBranch
+# Second time doing a change in order to create a merging conflict
+
