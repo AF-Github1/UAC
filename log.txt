@@ -25,4 +25,5 @@ git add log.txt
 git push https://github.com/AF-Github1/UAC nova-feature
 
 
+MergingConflict
 #This is the merging conflict branch log change
