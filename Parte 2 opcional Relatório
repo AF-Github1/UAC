@@ -1,0 +1,139 @@
+Autor: António Freitas
+
+
+Objetivos
+
+
+
+Parte 2: Controle de Versão e Colaboração (opcional)
+
+2.1 Criando e mesclando um Pull Request
+• Criar um Pull Request no GitHub para mesclar nova-feature em main.
+• Aceitar e fazer o merge.
+
+
+1 - Abrir o branch nova-feature
+
+
+
+
+
+
+
+2- Depois de realizar alguma alteração no branch (Neste caso adicionei o ficheiro 2_1_PullRequest) e fazer commit desta alteração, selecionar o aviso que indica que o branch está mais avançado que o main branch
+
+
+
+3 - Selecionar a opção de “Create Pull Request” 
+
+
+
+
+
+
+
+4- Depois de adicionar um titulo e uma descrição, selecionar “Create Pull Request” 
+
+
+5 - Neste caso não existem conflitos, logo pode-se selecionar “Merge Pull Request” imediatamente
+
+
+
+
+6- O ficheiro pedirá para adicionar uma descrição e pedirá para confirmar o merge. Selecionar “Confirm Merge” para terminar o processo
+
+
+
+2.2 Resolvendo conflitos de merge
+• Criar um novo branch e editar log.txt.
+• Fazer o mesmo no main e tentar mesclar.
+
+1 - Seleciono Branches no main branch
+
+
+
+
+
+
+
+
+
+2 - Crio outro branch manualmente
+
+
+
+
+3 - Depois de alterar o log.txt file em ambos o main branch e o novo branch, repete-se o processo de forma a fazer um pull request. Contudo quando se chegar ao ponto de fazer merge, terá ocorrido um conflito. 
+Selecionar “Resolve conflicts”
+
+
+
+4- A parte a ser alterada no texto estará marcada. Fazer as alterações necessárias e retirar os marcadores <<<<<< ===== e >>>>> de forma a indicar que será esta a versão final.
+
+
+
+
+5 - No canto superior direito pressionar “Commit merge”
+
+
+6 - Voltando ao Pull Request, a opção de fazer Merge pull request estará agora disponível, podendo-se assim completar a Pull Request
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.3 Fazendo revisão de código no GitHub
+• Criar um Pull Request e solicitar um Code Review.
+• Comentar uma linha do código e sugerir mudanças
+
+
+
+1 - Depois de realizar um pull request eu posso selecionar um dos ficheiros actualizados
+
+
+
+2 - No ficheiro actualizado posso tanto usar o símbolo de comentário como o simbolo de + à frente das linhas no ficheiro de forma a comentar uma linha específica
+
+
+
+
+
+
+3 - Exemplo de comentário
+
+
+
+
+4- Para termina a review, no canto superior direito selecionar “Finish your review” e depois selecionar “Submit Review”
+
+
+5 - Agora na página do pull request, será também apresentado os comentários feitos em review ao ficheiro.
+
+
+
+
+
+
+
+
+
+
