@@ -1,0 +1,11 @@
+#Initializing Repo
+
+git init git-treino
+git add log.txt
+git commit
+
+#Adding to private repo
+
+git remote add origin https://github.com/AF-Github1/UAC
+git remote -v
+git push origin master
