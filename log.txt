@@ -1,3 +1,5 @@
+#Parte 1: Fundamentos do Git (obrigatório)
+
 #Initializing Repo
 
 git init git-treino
@@ -9,3 +11,15 @@ git commit
 git remote add origin https://github.com/AF-Github1/UAC
 git remote -v
 git push origin master
+
+#Cloning and adding log.txt to a github repo.
+git pull https://github.com/AF-Github1/UAC
+cp git-treino/log.txt .
+git add log.txt
+git commit
+
+
+#Creating new branch, pushing to new branch
+git checkout -b nova-feature
+git add log.txt
+git push https://github.com/AF-Github1/UAC nova-feature
